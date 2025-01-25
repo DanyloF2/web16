@@ -1,4 +1,4 @@
-/* Container */
+
 .container {
   width: 1170px;
   margin-left: auto;
@@ -7,13 +7,13 @@
   padding-right: 15px;
 }
 
-/* Section padding */
+
 .section {
   padding-top: 94px;
   padding-bottom: 94px;
 }
 
-/* Existing styles */
+
 .text-line {
   display: flex;
   justify-content: space-between;
@@ -68,7 +68,7 @@
 }
 
 .hero-title {
-  color: #ffffff; /* Змініть на відповідний колір тексту */
+  color: #ffffff; 
   font-size: 44px;
   line-height: 1.36;
   letter-spacing: 0.06em;
@@ -77,7 +77,7 @@
 }
 
 .hero-button {
-  background-color: #2196f3; /* Змініть на відповідний колір кнопки */
+  background-color: #2196f3; 
   color: #ffffff;
   font-weight: 700;
   font-size: 16px;
@@ -92,6 +92,6 @@
 
 .hero-button:hover,
 .hero-button:focus {
-  background-color: #188ce8; /* Змініть на відповідний колір при наведенні */
+  background-color: #188ce8; 
 }
 
